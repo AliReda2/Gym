@@ -96,8 +96,10 @@ td {
 table {
   background-color: #444;
   color: beige;
+  width: 70%;
 }
 
 caption {
   color: black;
+  font-size: larger;
 }

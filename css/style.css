@@ -102,9 +102,27 @@ table {
   color: beige;
   width: 80%;
   margin-left: 7%;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 caption {
-  color: black;
+  color: rgb(0, 0, 0);
   font-size: larger;
+  font-weight: bolder;
+}
+
+.day3 {
+  text-align: left;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.space {
+  margin-top: 10%;
+}
+
+#title {
+  margin-left: 7%;
+  margin-top: 20px;
 }

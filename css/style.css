@@ -108,7 +108,8 @@ td {
 table {
   background-color: #444;
   color: beige;
-  width: 70%;
+  width: 80%;
+  margin-left: 60px;
 }
 
 caption {
